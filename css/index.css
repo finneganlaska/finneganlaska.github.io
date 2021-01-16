@@ -38,7 +38,12 @@ header {
     width: 150px;
     border: 1px solid #fff;
 }
-
+.hi-image {
+    background: url("../images/photo_space_hubble_1_stsci-h-p2016a-m.jpg") no-repeat;
+    background-size: cover;
+    height: auto;
+    background-position: 50% 75%;
+}
 
 .home-image {
     background: url("../images/space.jpg") no-repeat;
@@ -47,6 +52,18 @@ header {
     background-position: 50% 75%;
 }
 
+.server-image {
+    background: url("../images/spacee-740x463.jpg") no-repeat;
+    background-size: cover;
+    height: auto;
+    background-position: 50% 75%;
+}
+.Abc-image {
+    background: url("../images/pulsar-831502910.jpg") no-repeat;
+    background-size: cover;
+    height: auto;
+    background-position: 50% 75%;
+}
 .home-image-inner {
     color:#fff;
     text-align: center;
